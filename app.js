@@ -1,4 +1,4 @@
-/* --- 1. CLOCK & GREETING --- */
+/* --- 1. CLOCK & GREETING  --- */
 function updateClockAndGreeting() {
     const now = new Date();
     
