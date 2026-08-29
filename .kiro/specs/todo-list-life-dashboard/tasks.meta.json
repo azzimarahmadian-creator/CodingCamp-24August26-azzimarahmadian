@@ -1,0 +1,215 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1. Project scaffolding — create file structure and HTML skeleton": [
+      {
+        "executionId": "719c304b-4d3b-41b1-9fa3-c83fb80f4808",
+        "chatSessionId": "sess_ac3e7ea2-3a6e-4bb1-9f12-d492162b73e6",
+        "timestamp": 1787836527247
+      },
+      {
+        "executionId": "719c304b-4d3b-41b1-9fa3-c83fb80f4808",
+        "chatSessionId": "sess_ac3e7ea2-3a6e-4bb1-9f12-d492162b73e6",
+        "timestamp": 1787838995919
+      }
+    ],
+    "2.1 Write design tokens and reset in `css/style.css`": [
+      {
+        "executionId": "1ac2cb72-8098-4006-8bf4-05f712e34dbd",
+        "chatSessionId": "sess_25da2cd7-73cb-4dd3-9c72-6acba4de8c6b",
+        "timestamp": 1787839076593
+      },
+      {
+        "executionId": "1ac2cb72-8098-4006-8bf4-05f712e34dbd",
+        "chatSessionId": "sess_25da2cd7-73cb-4dd3-9c72-6acba4de8c6b",
+        "timestamp": 1787839376598
+      }
+    ],
+    "2.2 Implement dashboard layout grid and responsive breakpoints": [
+      {
+        "executionId": "1ac2cb72-8098-4006-8bf4-05f712e34dbd",
+        "chatSessionId": "sess_25da2cd7-73cb-4dd3-9c72-6acba4de8c6b",
+        "timestamp": 1787839138767
+      },
+      {
+        "executionId": "1ac2cb72-8098-4006-8bf4-05f712e34dbd",
+        "chatSessionId": "sess_25da2cd7-73cb-4dd3-9c72-6acba4de8c6b",
+        "timestamp": 1787839396935
+      }
+    ],
+    "2. CSS design system — tokens, reset, and base styles": [
+      {
+        "executionId": "1ac2cb72-8098-4006-8bf4-05f712e34dbd",
+        "chatSessionId": "sess_25da2cd7-73cb-4dd3-9c72-6acba4de8c6b",
+        "timestamp": 1787839398883
+      }
+    ],
+    "3.1 Write widget card, heading, and shared component styles": [
+      {
+        "executionId": "98b04b32-62a7-4e6c-83fb-0876698e2080",
+        "chatSessionId": "sess_620656ad-3c4a-42b9-9536-45a8c5283adf",
+        "timestamp": 1787839479295
+      },
+      {
+        "executionId": "98b04b32-62a7-4e6c-83fb-0876698e2080",
+        "chatSessionId": "sess_620656ad-3c4a-42b9-9536-45a8c5283adf",
+        "timestamp": 1787839646995
+      }
+    ],
+    "3.2 Write widget-specific styles (greeting, timer, todo, links)": [
+      {
+        "executionId": "98b04b32-62a7-4e6c-83fb-0876698e2080",
+        "chatSessionId": "sess_620656ad-3c4a-42b9-9536-45a8c5283adf",
+        "timestamp": 1787839498716
+      },
+      {
+        "executionId": "98b04b32-62a7-4e6c-83fb-0876698e2080",
+        "chatSessionId": "sess_620656ad-3c4a-42b9-9536-45a8c5283adf",
+        "timestamp": 1787839656085
+      }
+    ],
+    "3. Widget, component, and utility styles": [
+      {
+        "executionId": "98b04b32-62a7-4e6c-83fb-0876698e2080",
+        "chatSessionId": "sess_620656ad-3c4a-42b9-9536-45a8c5283adf",
+        "timestamp": 1787839656307
+      }
+    ],
+    "4.1 Implement time and date formatters in `js/app.js` under the `Utils` namespace": [
+      {
+        "executionId": "6cd292b9-cce1-4a9b-8015-cc6a310a8a83",
+        "chatSessionId": "sess_10ae605c-e754-4bf4-9f77-f19dcb04c6b0",
+        "timestamp": 1787901778875
+      },
+      {
+        "executionId": "6cd292b9-cce1-4a9b-8015-cc6a310a8a83",
+        "chatSessionId": "sess_10ae605c-e754-4bf4-9f77-f19dcb04c6b0",
+        "timestamp": 1787902450056
+      }
+    ],
+    "4.3 Implement input validators in `js/app.js` under the `Utils` namespace": [
+      {
+        "executionId": "6cd292b9-cce1-4a9b-8015-cc6a310a8a83",
+        "chatSessionId": "sess_10ae605c-e754-4bf4-9f77-f19dcb04c6b0",
+        "timestamp": 1787901781483
+      },
+      {
+        "executionId": "6cd292b9-cce1-4a9b-8015-cc6a310a8a83",
+        "chatSessionId": "sess_10ae605c-e754-4bf4-9f77-f19dcb04c6b0",
+        "timestamp": 1787902462077
+      }
+    ],
+    "4. Utils module — pure formatting and validation functions": [
+      {
+        "executionId": "6cd292b9-cce1-4a9b-8015-cc6a310a8a83",
+        "chatSessionId": "sess_10ae605c-e754-4bf4-9f77-f19dcb04c6b0",
+        "timestamp": 1787902463246
+      }
+    ],
+    "5.1 Implement `Storage` namespace in `js/app.js`": [
+      {
+        "executionId": "3f31cc9b-5e72-4bfe-ac97-2a72ebb0e482",
+        "chatSessionId": "sess_bc49ff62-e24e-43fe-bf49-ae0d526a19e0",
+        "timestamp": 1787902522486
+      },
+      {
+        "executionId": "3f31cc9b-5e72-4bfe-ac97-2a72ebb0e482",
+        "chatSessionId": "sess_bc49ff62-e24e-43fe-bf49-ae0d526a19e0",
+        "timestamp": 1787902581342
+      }
+    ],
+    "5. Storage module — localStorage persistence with corruption recovery": [
+      {
+        "executionId": "3f31cc9b-5e72-4bfe-ac97-2a72ebb0e482",
+        "chatSessionId": "sess_bc49ff62-e24e-43fe-bf49-ae0d526a19e0",
+        "timestamp": 1787902581678
+      }
+    ],
+    "6. Greeting Widget": [
+      {
+        "executionId": "ad3022a7-0bca-492c-99a0-7b57e8f00d13",
+        "chatSessionId": "sess_97829608-8e13-4fe4-be6c-7ea9f8fa176a",
+        "timestamp": 1787902609504
+      },
+      {
+        "executionId": "ad3022a7-0bca-492c-99a0-7b57e8f00d13",
+        "chatSessionId": "sess_97829608-8e13-4fe4-be6c-7ea9f8fa176a",
+        "timestamp": 1787903605448
+      }
+    ],
+    "7.1 Implement timer state and core tick/reset logic in `js/app.js`": [
+      {
+        "executionId": "555994e3-cf6d-4899-89a1-ad64c463a990",
+        "chatSessionId": "sess_32829ba1-8dad-4348-bca0-60ad1476d8f7",
+        "timestamp": 1787903742997
+      },
+      {
+        "executionId": "555994e3-cf6d-4899-89a1-ad64c463a990",
+        "chatSessionId": "sess_32829ba1-8dad-4348-bca0-60ad1476d8f7",
+        "timestamp": 1787907707401
+      }
+    ],
+    "7.3 Implement timer start, stop, and render": [
+      {
+        "executionId": "555994e3-cf6d-4899-89a1-ad64c463a990",
+        "chatSessionId": "sess_32829ba1-8dad-4348-bca0-60ad1476d8f7",
+        "timestamp": 1787907718808
+      },
+      {
+        "executionId": "555994e3-cf6d-4899-89a1-ad64c463a990",
+        "chatSessionId": "sess_32829ba1-8dad-4348-bca0-60ad1476d8f7",
+        "timestamp": 1787907723384
+      }
+    ],
+    "7. Focus Timer": [
+      {
+        "executionId": "555994e3-cf6d-4899-89a1-ad64c463a990",
+        "chatSessionId": "sess_32829ba1-8dad-4348-bca0-60ad1476d8f7",
+        "timestamp": 1787907723601
+      }
+    ],
+    "8.1 Implement `TodoList` state and add/delete operations in `js/app.js`": [
+      {
+        "executionId": "2bcea781-74fc-42c8-84cc-cc5d10b92777",
+        "chatSessionId": "sess_ad6cfad4-4cdb-4432-a3e9-73fc6ec01be6",
+        "timestamp": 1787907795914
+      },
+      {
+        "executionId": "2bcea781-74fc-42c8-84cc-cc5d10b92777",
+        "chatSessionId": "sess_ad6cfad4-4cdb-4432-a3e9-73fc6ec01be6",
+        "timestamp": 1787946451406
+      }
+    ],
+    "8.3 Implement `TodoList` edit operations": [
+      {
+        "executionId": "2bcea781-74fc-42c8-84cc-cc5d10b92777",
+        "chatSessionId": "sess_ad6cfad4-4cdb-4432-a3e9-73fc6ec01be6",
+        "timestamp": 1787907800535
+      },
+      {
+        "executionId": "2bcea781-74fc-42c8-84cc-cc5d10b92777",
+        "chatSessionId": "sess_ad6cfad4-4cdb-4432-a3e9-73fc6ec01be6",
+        "timestamp": 1787946457441
+      }
+    ],
+    "8.5 Implement `TodoList.render()` and `init()`": [
+      {
+        "executionId": "2bcea781-74fc-42c8-84cc-cc5d10b92777",
+        "chatSessionId": "sess_ad6cfad4-4cdb-4432-a3e9-73fc6ec01be6",
+        "timestamp": 1787907805825
+      },
+      {
+        "executionId": "2bcea781-74fc-42c8-84cc-cc5d10b92777",
+        "chatSessionId": "sess_ad6cfad4-4cdb-4432-a3e9-73fc6ec01be6",
+        "timestamp": 1787946464047
+      }
+    ],
+    "8.6 Write property test for insertion order (Property 13)": [
+      {
+        "executionId": "b9b5248d-9bd7-407a-ad2c-654ea816e68e",
+        "chatSessionId": "sess_f06452c3-cb03-421d-b916-068db3303ae8",
+        "timestamp": 1787946481715
+      }
+    ]
+  }
+}
